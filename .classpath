@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="array"/>
+	<classpathentry kind="src" path="exercises"/>
+	<classpathentry kind="src" path="single.linked.list"/>
+	<classpathentry kind="src" path="binary.tree"/>
+	<classpathentry kind="src" path="sort"/>
+	<classpathentry kind="src" path="amazon"/>
+	<classpathentry kind="src" path="BFS"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
